@@ -1,0 +1,6 @@
+asdfasdf
+asfdasdfasfasdkjfslakdjfh
+i_sh.h
+msh
+pipe_and_redirection.c
+test

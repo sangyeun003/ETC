@@ -1,0 +1,1 @@
+gcc mini_sh.c pipe_and_redirection.c -o msh
