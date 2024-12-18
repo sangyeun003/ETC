@@ -1,8 +1,0 @@
-a.txt
-abc.txt
-compile
-mini_sh.c
-mini_sh.h
-msh
-my_pipe.c
-test
